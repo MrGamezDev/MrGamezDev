@@ -44,14 +44,6 @@ Optimización de flujos de validación para solicitudes médicas nacionales.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
 ### 📫 Contacto
 - **LinkedIn:** [Brayan Gamez](www.linkedin.com/in/brayan-gerardo-gamez-357532205)
 - **Email:** `bgamez1010@gmail.com`
