@@ -53,7 +53,7 @@ Optimización de flujos de validación para solicitudes médicas nacionales.
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [Tu Nombre de Perfil](https://www.linkedin.com/in/tu-perfil-aqui)
+- **LinkedIn:** [Brayan Gamez](www.linkedin.com/in/brayan-gerardo-gamez-357532205)
 - **Email:** `bgamez1010@gmail.com`
 - **Intereses:** Me apasiona el Hardware de PC de alto rendimiento y la virtualización de servidores privados.
 
