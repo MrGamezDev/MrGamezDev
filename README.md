@@ -1,7 +1,7 @@
 # 👨‍💻 Brayan Gámez | Systems Engineer & Fullstack Developer
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil-aqui">
+  <a href="www.linkedin.com/in/brayan-gerardo-gamez-357532205">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/English-B1_Intermediate-green?style=for-the-badge" />
